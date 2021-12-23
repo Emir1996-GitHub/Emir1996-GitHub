@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Emir1996-GitHub
-- 👀 I’m interested in C# programming
+- 👀 I’m interested in C#, Html, JavaScript, CSS Programming
 - 🌱 I’m currently learning C++ and C
 - 📫 How to reach me: ckmkahmetefe@gmail.com
 
